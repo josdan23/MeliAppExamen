@@ -161,7 +161,9 @@ Repositorio del código: https://github.com/josdan23/MeliAppExamen
 
 ##### PublicacionesActivity
 **Aclaración**: para el paginado de los resultados, se utilizó un paginado Endless.
+
 ![publicacion_activity](https://github.com/josdan23/MeliAppExamen/blob/master/Screenshot/Captura%20de%20pantalla%20de%202021-05-23%2018-25-06.png)
+
 
 ##### Detalle Activity
 ![detalle_activity](https://github.com/josdan23/MeliAppExamen/blob/master/Screenshot/Captura%20de%20pantalla%20de%202021-05-23%2018-25-18.png)
